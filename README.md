@@ -7,6 +7,8 @@ This API project uses HTTP GET and PUT request to save and return different enti
 
 ## 🔎 How does it work?
 
+In application.properties, set XXXXX atributtes with yours data
+
 Use the paths of controllers files for access or edit data from database
 
 ## 💎 Things to improve
