@@ -1,16 +1,16 @@
 # My PortFolio Backend 💙
 This project was generated with ➡️ `Java 17` and `Springboot` maven
 
-Backend section of ➡️ https://github.com/GaspyGJ/Portfolio_Frontend_GJ
+Sección del backend API para proyecto Portfolio ➡️ https://github.com/GaspyGJ/Portfolio_Frontend_GJ
 
-This API project uses HTTP GET and PUT request to save and return different entities
+Este proyecto API utiliza peticiones GET y PUT para `guardar` y `obtener` diferentes entidades
 
-## 🔎 How does it work?
+## 🔎 Como funciona?
 
-In application.properties, set XXXXX atributtes with yours data
+En application.properties, colocar sus datos en los atributos marcados con "XXXXX"
 
-Use the paths of controllers files for access or edit data from database
+Utiliza los path de los controladores para acceder a las diferentes funciones
 
-## 💎 Things to improve
+## 💎 Cosas para mejorar
 
-* Return more information about request response
+* Retornar más información útil en las respuestas a las peticiones.
