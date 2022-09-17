@@ -1,9 +1,10 @@
 # My PortFolio Backend 💙
-This project was generated with ➡️ `Java 17` and `Springboot` maven
 
-Sección del backend API para proyecto Portfolio ➡️ https://github.com/GaspyGJ/Portfolio_Frontend_GJ
+Backend de mi PortFolio personal con conexión a base de datos MySQL. Desarrollado en `Java 17` con `Springboot` Maven
 
-Este proyecto API utiliza peticiones GET y PUT para `guardar` y `obtener` diferentes entidades
+Funciona en conjunto con el proyecto web Angular ➡️ https://github.com/GaspyGJ/Portfolio_Frontend_GJ
+
+Este proyecto API utiliza peticiones `GET` y `PUT` para guardar y obtener diferentes entidades
 
 ## 🔎 Como funciona?
 
